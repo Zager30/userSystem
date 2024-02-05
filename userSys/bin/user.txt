@@ -1,0 +1,2 @@
+uid,uname,upwd,umajor,utype
+2020111111,张三,123456,网络空间安全,内招生
